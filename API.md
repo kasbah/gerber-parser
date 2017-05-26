@@ -220,7 +220,7 @@ operation | description
 `int`     | interpolate (draw) to `COORDINATE` based on current tool and mode
 `move`    | move to `COORDINATE` without affecting the image
 `flash`   | add image of current tool to the layer image at `COORDINATE`
-`last`    | do whatever the last operation was (deprectated)
+`last`    | do whatever the last operation was (deprecated)
 
 #### coordinate objects
 
